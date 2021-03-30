@@ -1,5 +1,5 @@
 {
-    "name": "hscstudio/yii2-export",
+    "name": "xakki/yii2-export",
     "description": "Excel, Word, PDF",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
